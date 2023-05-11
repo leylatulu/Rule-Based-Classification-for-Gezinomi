@@ -9,7 +9,7 @@ Gezinomi company wants to create level-based new customer definitions (persona) 
 
 <details>
 <summary><h2 align="left">Data Set Story</h2></summary>
-The data set includes the prices of the sales made by Gezinomi company and information about these sales. This data set is private and real.
+The data set includes the prices of the sales made by Gezinomi company and information about these sales. This data set is hidden.<br>
 
 The data set consists of records created in each sales transaction. This means that the _table is not deduplicated_. In other words, a user with certain demographic characteristics **may have made more than one purchase**.
 </details>
